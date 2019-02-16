@@ -49,8 +49,8 @@ echo "Installing category Graphics"
 
 #sudo pacman -S --noconfirm --needed darktable
 sudo pacman -S --noconfirm --needed gimp
-#sudo pacman -S --noconfirm --needed gnome-font-viewer
-#sudo pacman -S --noconfirm --needed gpick
+sudo pacman -S --noconfirm --needed gnome-font-viewer
+sudo pacman -S --noconfirm --needed gpick
 sudo pacman -S --noconfirm --needed inkscape
 sudo pacman -S --noconfirm --needed nomacs
 #sudo pacman -S --noconfirm --needed pinta
@@ -62,21 +62,21 @@ echo "Installing category Internet"
 sudo pacman -S --noconfirm --needed chromium
 #sudo pacman -S --noconfirm --needed filezilla
 sudo pacman -S --noconfirm --needed firefox
-#sudo pacman -S --noconfirm --needed hexchat
-sudo pacman -S --noconfirm --needed qbittorrent
+sudo pacman -S --noconfirm --needed hexchat
+#sudo pacman -S --noconfirm --needed qbittorrent
 #sudo pacman -S --noconfirm --needed
 
 echo "Installing category Multimedia"
 
 #sudo pacman -S --noconfirm --needed clementine
 #sudo pacman -S --noconfirm --needed deadbeef
-sudo pacman -S --noconfirm --needed mpv
+#sudo pacman -S --noconfirm --needed mpv
 #sudo pacman -S --noconfirm --needed openshot
 sudo pacman -S --noconfirm --needed pragha
 #sudo pacman -S --noconfirm --needed shotwell
-sudo pacman -S --noconfirm --needed simplescreenrecorder
+#sudo pacman -S --noconfirm --needed simplescreenrecorder
 #sudo pacman -S --noconfirm --needed smplayer
-sudo pacman -S --noconfirm --needed vlc
+#sudo pacman -S --noconfirm --needed vlc
 #sudo pacman -S --noconfirm --needed
 
 echo "Installing category Office"
