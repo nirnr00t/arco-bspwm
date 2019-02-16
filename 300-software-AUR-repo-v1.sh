@@ -32,7 +32,7 @@ sh AUR/install-temps-v*.sh
 
 echo "Installing category Development"
 
-sh AUR/install-sublime-text-v*.sh
+#sh AUR/install-sublime-text-v*.sh
 
 echo "Installing category Education"
 
